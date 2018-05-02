@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ifp.at.mikorn.com.FileHdfsProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.987 sec - in ifp.at.mikorn.com.FileHdfsProcessorTest
